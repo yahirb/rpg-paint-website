@@ -1,15 +1,14 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: "About Us"
+layout: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Lorem ipsum dolor sit amet, pro laudem insolens laboramus id, lobortis vituperata eu vel, mel ad quod sadipscing suscipiantur. His iisque menandri pertinax eu, sea veri minim eirmod no. Eos facilisis dissentiunt ut, quas posse tincidunt ne nam, nam tamquam pertinacia deterruisset in. Est no integre aliquid voluptaria, idque movet deserunt ad vis. Te mei oporteat ocurreret, agam erroribus prodesset in vim, id quo verear fuisset. Te justo dolorem pertinacia his, sit ut brute regione.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+- Lorem ipsum dolor sit amet, pro laudem insolens laboramus
+- agam erroribus prodesset in vim, id quo verear fuisset
+- Te justo dolorem pertinacia his, sit ut brute regione
+- nam tamquam pertinacia deterruisset in
+- His iisque menandri pertinax eu
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+We welcome you to contact us today! No project is too small or large.
