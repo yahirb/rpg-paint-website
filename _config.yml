@@ -24,7 +24,7 @@ author:
   twitter:
   picture: /assets/images/orlando.jpg
 twitter_username:
-github_username: 
+github_username:
 logo: /assets/icons/rpg-logo.png
 
 # Build settings
@@ -55,10 +55,3 @@ feed:
 
 # Front Matter Defaults
 defaults:
-  # _posts
-  - scope:
-      path: "_posts"
-      type: posts
-    values:
-      layout: post
-      read_time: true
